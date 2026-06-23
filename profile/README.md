@@ -1,4 +1,4 @@
-EnhanceLearning AI is building the definitive knowledge platform for AI-native enterprises.
+**EnhanceLearning AI** is building the definitive knowledge platform for AI-native enterprises.
 
 We publish research, architectures, frameworks, and implementation blueprints that help organizations design, deploy, and scale AI-native systems.
 
