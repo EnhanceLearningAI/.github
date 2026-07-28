@@ -6,4 +6,4 @@ Our work focuses on the foundational building blocks of AI-native enterprises, i
 
 Through research, frameworks, blueprints, implementation guides, and real-world architectural patterns, we help engineering teams move beyond AI experiments and build production-grade AI-native capabilities.
 
-As enterprises transition from software-centric operating models to AI-native enterprises, EnhanceLearning.AI serves as a knowledge and insight platform for architects, engineers, and technology leaders building the next generation of intelligent systems.
+As enterprises transition from software-centric operating models to AI-native enterprises, EnhanceLearning.AI is the practitioner-grade reference for architects, engineers, and technology leaders designing the next generation of AI-native systems.
